@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 <h2> 😄 Hello! I'm Henry Aguilar!</h2>
 <img align='right' src="https://raw.githubusercontent.com/Kaellyn/Kaellyn/main/charts/coding.gif" width="230">
-<p><em>Hi! I'm Henry, a Systems Engineer living in Quito, Ecuador. I'm a technology and programming enthusiast . I enjoy programming and creating web applications using and learning about the latest technology, libraries or frameworks. Lately my focus has been on data engineering :nerd_face:, I am very interested in this field of data science and I would like to become a data engineer making use of cloud technologies 🔭. 
-    "I want to be the best version of me." </em></p>
+<p><em>Hi! I'm Henry, a Systems Engineer living in Quito, Ecuador. I'm a technology and programming enthusiast . I enjoy programming and creating web applications using and learning about the latest technology, libraries or frameworks. Lately my focus has been on data engineering :nerd_face:, I am very interested in this field of data science and I would like to become a data engineer making use of cloud technologies 🔭.  
+    
+"I want to be the best version of me." </em></p>
 
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)-->
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-aguilar-618847217/)](https://www.linkedin.com/in/henry-aguilar-618847217/)
