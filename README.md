@@ -14,17 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>नमस्ते Hello! I'm Henry Aguilar!</h2>
-<img align='right' src="https://tenor.com/view/programmer-gif-19019116" width="230">
-<p><em>Systems Engineer and Data Engineer enthusiast</em></p>
+<h2> 😄 Hello! I'm Henry Aguilar!</h2>
+<img align='right' src="https://raw.githubusercontent.com/Kaellyn/Kaellyn/main/charts/coding.gif" width="230">
+<p><em>Systems Engineer and Data Engineer enthusiast 🔭</em></p>
 
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)-->
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-aguilar-618847217/)](https://www.linkedin.com/in/henry-aguilar-618847217/)
 ![GitHub followers](https://img.shields.io/github/followers/Kaellyn?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.henry-aguilar.com/)](https://www.henry-aguilar.com/)
-<!--![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)-->
-
 ### A little more about me...  
 
 ```javascript
