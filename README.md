@@ -53,7 +53,7 @@ const anmol = {
 
 **🐱 My Github Data** 
 
-> 🏆 24 Contributions in the Year 2021
+> 🏆 30 Contributions in the Year 2021
  > 
 > 📦 49.2 kB Used in Github's Storage 
  > 
@@ -119,7 +119,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kaellyn/Kaellyn/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/07/2021
+ Last Updated on 18/07/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
