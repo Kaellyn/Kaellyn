@@ -47,6 +47,8 @@ const anmol = {
 ```
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
@@ -55,7 +57,7 @@ const anmol = {
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 79.0 kB Used in GitHub's Storage 
+> 📦 79.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -119,7 +121,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kaellyn/Kaellyn/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/05/2022 00:52:32 UTC
+ Last Updated on 08/05/2022 00:55:04 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
