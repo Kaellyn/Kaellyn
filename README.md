@@ -57,7 +57,7 @@ const anmol = {
 
 > 🏆 18 Contributions in the Year 2022
  > 
-> 📦 79.5 kB Used in GitHub's Storage 
+> 📦 79.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -121,7 +121,7 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Kaellyn/Kaellyn/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/10/2022 01:12:38 UTC
+ Last Updated on 29/10/2022 01:02:55 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
